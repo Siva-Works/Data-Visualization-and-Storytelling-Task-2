@@ -8,6 +8,7 @@ The goal is to analyze sales and profit patterns through simple visual charts.
 2. Profit by Region  
 3. Sales Trend Over Time  
 4. Discount vs Profit
+5. Sub-category vs Sales
 
 ## Key Insights
 - Technology category shows the highest sales.  
