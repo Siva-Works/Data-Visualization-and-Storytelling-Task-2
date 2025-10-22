@@ -16,4 +16,4 @@ The goal is to analyze sales and profit patterns through simple visual charts.
 - Increased discounts tend to reduce profits.  
 
 **Tools Used:** Google Sheets, Ms word
-**Dataset:** Superstore.csv
+**Dataset:** Superstore Sales Dataset.csv
